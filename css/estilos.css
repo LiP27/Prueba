@@ -4,6 +4,13 @@ body
     font-family: 'Courier New', Courier, monospace; 
  }
 
+ #cabecera  
+ {
+     background: #33a;
+     font-weight: bold;
+     color: white;
+ }
+
  #container 
  {
      width: 70%;
